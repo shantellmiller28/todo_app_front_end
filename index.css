@@ -2,6 +2,15 @@ html{
     font-family: sans-serif;
     color: blue;
 }
+li{
+    padding-bottom:5px;
+    margin-bottom:10px;
+}
+li:hover{
+    background-color: lightgreen;
+    padding:5px;
+}
+
 .pomodoro-estimate{
     font-family: sans-serif;
     color:red;
